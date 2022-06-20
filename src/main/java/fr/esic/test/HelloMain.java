@@ -16,7 +16,7 @@ public class HelloMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hello guys");
+        System.out.println("hello guys, welcome here ");
         Dog rex = new Dog(); 
         rex.crier();
         rex.jouer();
